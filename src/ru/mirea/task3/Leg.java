@@ -10,4 +10,11 @@ public class Leg {
     public Leg(int size) {
         this.size = size;
     }
+
+    @Override
+    public String toString() {
+        return "Leg{" +
+                "size=" + size +
+                '}';
+    }
 }

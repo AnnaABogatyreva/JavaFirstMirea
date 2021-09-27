@@ -46,4 +46,3 @@ public class Circle {
         return "Circle {radius = " + this.radius + ", color = " + this.color + "}";
     }
 }
-

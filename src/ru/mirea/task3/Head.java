@@ -29,4 +29,12 @@ public class Head {
     public String getEyeColor() {
         return eyeColor;
     }
+
+    @Override
+    public String toString() {
+        return "Head{" +
+                "hairColor='" + hairColor + '\'' +
+                ", eyeColor='" + eyeColor + '\'' +
+                '}';
+    }
 }
