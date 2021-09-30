@@ -56,5 +56,15 @@ public class Main {
         //System.out.println(sq1.getColor());
         //System.out.println(sq1.getSide());
         //System.out.println(sq1.getLength());
+
+        System.out.println();
+        MovablePoint p = new MovablePoint();
+        System.out.println(p);
+        p.moveUp();
+        System.out.println(p);
+        MovableRectangle r = new MovableRectangle();
+        System.out.println(r);
+        r.moveLeft();
+        System.out.println(r);
     }
 }
