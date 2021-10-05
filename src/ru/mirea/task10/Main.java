@@ -40,7 +40,7 @@ public class Main {
         System.out.println("Сумма цифр числа n: " + sumTask5(n));
         System.out.println("Task 6");
         System.out.print("Введите n: ");
-        int n = scanner.nextInt();
+        n = scanner.nextInt();
         System.out.println("Число n простое: " + isPrimeTask6(n));
     }
 
