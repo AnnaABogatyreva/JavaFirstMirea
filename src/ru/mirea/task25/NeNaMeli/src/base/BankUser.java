@@ -1,6 +1,9 @@
-package base;
+package ru.mirea.task25.NeNaMeli.src.base;
 
-import base.decorator.*;
+import ru.mirea.task25.NeNaMeli.src.base.decorator.Fee;
+import ru.mirea.task25.NeNaMeli.src.base.decorator.SendCreditMoney;
+import ru.mirea.task25.NeNaMeli.src.base.decorator.SendDebitMoney;
+import ru.mirea.task25.NeNaMeli.src.base.decorator.Service;
 
 import java.util.ArrayList;
 import java.util.List;

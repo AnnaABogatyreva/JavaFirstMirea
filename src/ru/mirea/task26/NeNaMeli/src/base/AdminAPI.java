@@ -1,7 +1,7 @@
-package base;
+package ru.mirea.task26.NeNaMeli.src.base;
 
-import base.strategy.BlockedStrategy;
-import base.strategy.ThanksStrategy;
+import ru.mirea.task26.NeNaMeli.src.base.strategy.BlockedStrategy;
+import ru.mirea.task26.NeNaMeli.src.base.strategy.ThanksStrategy;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;

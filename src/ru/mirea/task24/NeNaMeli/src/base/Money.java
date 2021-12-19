@@ -1,4 +1,4 @@
-package base;
+package ru.mirea.task24.NeNaMeli.src.base;
 
 import java.util.Random;
 

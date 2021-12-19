@@ -1,4 +1,4 @@
-package com.company;
+package ru.mirea.task27;
 
 public class City {
     private String town;

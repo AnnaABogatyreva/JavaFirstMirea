@@ -1,4 +1,4 @@
-package com.company;
+package ru.mirea.task15;
 
 import java.io.*;
 import java.util.Arrays;

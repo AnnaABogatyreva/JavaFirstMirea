@@ -1,4 +1,4 @@
-package base.decorator;
+package ru.mirea.task26.NeNaMeli.src.base.decorator;
 
 public class SendDecorator implements Service{
     private Service service;

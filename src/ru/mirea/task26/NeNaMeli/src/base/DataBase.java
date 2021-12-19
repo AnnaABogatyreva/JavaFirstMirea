@@ -1,4 +1,4 @@
-package base;
+package ru.mirea.task26.NeNaMeli.src.base;
 
 import java.util.ArrayList;
 import java.util.HashMap;

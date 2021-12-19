@@ -1,4 +1,4 @@
-package base.strategy;
+package ru.mirea.task26.NeNaMeli.src.base.strategy;
 
 public class ThanksStrategy implements NotifyStrategy{
     @Override

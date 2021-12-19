@@ -1,4 +1,4 @@
-package base.decorator;
+package ru.mirea.task25.NeNaMeli.src.base.decorator;
 
 public class SendDebitMoney extends SendDecorator{
 

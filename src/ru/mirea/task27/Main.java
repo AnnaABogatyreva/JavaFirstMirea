@@ -1,4 +1,4 @@
-package com.company;
+package ru.mirea.task27;
 
 import java.util.*;
 

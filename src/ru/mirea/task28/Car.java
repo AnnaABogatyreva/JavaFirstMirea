@@ -1,4 +1,4 @@
-package com.company;
+package ru.mirea.task28;
 
 import java.util.ArrayList;
 

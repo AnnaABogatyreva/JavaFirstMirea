@@ -1,4 +1,4 @@
-package base;
+package ru.mirea.task22.NeNaMeli.src.base;
 
 import java.util.List;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package base;
+package ru.mirea.task17.NeNaMeli.src.base;
 
 public class Account {
     private AccountType type;

@@ -1,7 +1,10 @@
-package base;
+package ru.mirea.task26.NeNaMeli.src.base;
 
-import base.decorator.*;
-import base.strategy.NotifyStrategy;
+import ru.mirea.task26.NeNaMeli.src.base.decorator.Fee;
+import ru.mirea.task26.NeNaMeli.src.base.decorator.SendCreditMoney;
+import ru.mirea.task26.NeNaMeli.src.base.decorator.SendDebitMoney;
+import ru.mirea.task26.NeNaMeli.src.base.decorator.Service;
+import ru.mirea.task26.NeNaMeli.src.base.strategy.NotifyStrategy;
 
 import java.util.ArrayList;
 import java.util.List;

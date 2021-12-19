@@ -1,4 +1,4 @@
-package base;
+package ru.mirea.task25.NeNaMeli.src.base;
 
 public class UserFactory {
     private UserAPI ua;
