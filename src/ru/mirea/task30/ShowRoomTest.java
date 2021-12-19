@@ -1,4 +1,4 @@
-package com.company;
+package ru.mirea.task30;
 
 import org.junit.Assert;
 import ru.mirea.task30.Car;
