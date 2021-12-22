@@ -45,5 +45,4 @@ public class GameQueue implements Game {
             sum += card.getValue();
         return sum;
     }
-
 }

@@ -39,4 +39,3 @@ public class Rectangle extends Shape {
         g.drawRect(x, y, width, height);
     }
 }
-

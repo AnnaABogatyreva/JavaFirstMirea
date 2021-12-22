@@ -1,4 +1,4 @@
-package ru.mirea.task19.NeNaMeli.src.base;;
+package ru.mirea.task19.NeNaMeli.src.base;
 
 public class Main {
 

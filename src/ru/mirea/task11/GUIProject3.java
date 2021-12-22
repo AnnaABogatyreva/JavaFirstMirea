@@ -124,5 +124,4 @@ public class GUIProject3 extends JFrame {
 
         return color;
     }
-
 }

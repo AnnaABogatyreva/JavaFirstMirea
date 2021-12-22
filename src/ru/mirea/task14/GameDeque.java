@@ -47,4 +47,3 @@ public class GameDeque implements Game {
 
     }
 }
-

@@ -9,7 +9,11 @@ import static java.lang.Math.random;
 public class Main {
     public static void main(String[] args) {
         int[] a = new int[5];
-        a[0] = 1; a[1] = 2; a[2] = 3; a[3] = 4; a[4] = 5;
+        a[0] = 1;
+        a[1] = 2;
+        a[2] = 3;
+        a[3] = 4;
+        a[4] = 5;
         int sum = 0;
         for (int i = 0; i < a.length; i++)
             sum += a[i];
@@ -42,7 +46,7 @@ public class Main {
 
         System.out.print("5. Первые 10 чисел гармонического ряда: ");
         for (int j = 1; j <= 10; j++) {
-            double x = 1 / (double)j;
+            double x = 1 / (double) j;
             System.out.print(x + " ");
         }
         System.out.println();
